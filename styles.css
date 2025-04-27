@@ -1,0 +1,59 @@
+#root {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-family: monospace;
+  }
+  
+  .padrow {
+    
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 30px;
+    
+  }
+  
+  .pad {
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 20px;
+  }
+  
+  #container {
+    border: 2px solid black;
+    padding: 50px;
+    border-radius: 30px;
+  }
+  
+  #display {
+    background-color: black;
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 25px;
+  }
+  
+  .pad:hover {
+    background-color: yellow;
+    
+  }
+  
+  #clear {
+    background-color: tomato;
+  }
+  
+  #clear:hover {
+    background-color: yellow;
+  }
+  
+  .funcs {
+    background-color: #006666;
+    color: white;
+  }
+  
+  .funcs:hover {
+    background-color: yellow;
+    color: black;
+  }
